@@ -9,3 +9,7 @@ This repository tracks scripts and notes for keeping your desktop tidy.
 ## Getting Started
 
 Clone this repo and explore the contents.
+
+## Contributing
+
+Feel free to open issues or pull requests with improvements.
